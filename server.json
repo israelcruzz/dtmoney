@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Projeto para Cliente",
+      "type": "entry",
+      "category": "Cliente",
+      "price": 2000,
+      "createdAt": "2024-04-26 16:37"
+    },
+    {
+      "id": "2",
+      "description": "Batata Frita",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 35,
+      "createdAt": "2024-02-24 16:40"
+    },
+    {
+      "id": "4ebb",
+      "description": "Esfirra Doce",
+      "type": "entry",
+      "category": "Alimentação",
+      "price": 10,
+      "createdAt": "2024-03-27T00:45:29.458Z"
+    },
+    {
+      "id": "f753",
+      "description": "Agiota",
+      "type": "outcome",
+      "category": "Crime",
+      "price": 2000,
+      "createdAt": "2024-03-27T00:46:03.831Z"
+    }
+  ]
+}
